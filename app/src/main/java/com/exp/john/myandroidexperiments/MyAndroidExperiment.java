@@ -10,6 +10,7 @@ public class MyAndroidExperiment extends AppCompatActivity {
     @Override
     protected void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
+        // this is a test
         setContentView(R.layout.activity_my_android_experiment);
     }
 
